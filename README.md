@@ -17,6 +17,7 @@
 
 <p>Project <a href="https://github.com/DeboraSerra/Adopt-a-pet-bonus-project-block9" target="_blank">Adopt a pet</a> (Made in colaboration as specified on the repository</p>
 <p>Project <a href="https://github.com/DeboraSerra/Zoo-functions-repository" target="_blank">Zoo functions</a> (Developed in the course)</p>
+<p>Project <a href="https://github.com/DeboraSerra/Jest-repository" target="_blank">JS Unit tests</a> (Developed in the course)</p>
 
 <h3> Languages and tools </h3>
 <section style="display: flex; flex-flow: row wrap;">
