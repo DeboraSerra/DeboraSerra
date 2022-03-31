@@ -20,9 +20,11 @@
 <p>Project <a href="https://github.com/DeboraSerra/Jest-repository" target="_blank">JS Unit tests</a> (Developed in the course)</p>
 
 <h3> Languages and tools </h3>
-<section style="display: flex; flex-flow: row wrap;">
-  ![My Skills](https://skillicons.dev/icons?i=bash,bootstrap,css,git,html,js,linkedin,linux,md,react,redux,regex,vscode&theme=light)](https://skillicons.dev)
-</section>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,git,html,js,linkedin,linux,md,react,redux,regex,vscode" />
+  </a>
+</p>
 
 <h3> My contacts </h3>
 <a href="https://github.com/DeboraSerra"> 
