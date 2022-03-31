@@ -18,6 +18,7 @@
 <p>Project <a href="https://github.com/DeboraSerra/Adopt-a-pet-bonus-project-block9" target="_blank">Adopt a pet</a> (Made in colaboration as specified on the repository</p>
 <p>Project <a href="https://github.com/DeboraSerra/Zoo-functions-repository" target="_blank">Zoo functions</a> (Developed in the course)</p>
 <p>Project <a href="https://github.com/DeboraSerra/Jest-repository" target="_blank">JS Unit tests</a> (Developed in the course)</p>
+<p>Project <a href="https://github.com/DeboraSerra/project-online-store/tree/master" target="_blank">Front End Online Store</a> (Developed in the course in group using agile methodologies)</p>
 
 <h3> Languages and tools </h3>
 <p align="center">
@@ -39,7 +40,7 @@
 
 <h3> My stats </h3>
 
-<section style="display: flex; flex-flow: row wrap;">
+<section style="display: flex; flex-flow: row wrap; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=DeboraSerra&show_icons=true&theme=vision-friendly-dark" alt="gitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeboraSerra" alt="gitHub languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeboraSerra" alt="gitHub streak"/>
