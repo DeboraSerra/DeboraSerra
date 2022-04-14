@@ -45,5 +45,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeboraSerra" alt="gitHub languages"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeboraSerra" alt="gitHub streak"/>
   <img src="https://www.codewars.com/users/DeboraSerra/badges/large" alt="CodeWars badge"/>
-  <a href="https://app.daily.dev/DeboraSerra"><img src="https://api.daily.dev/devcards/0a6f2aec044847a6bd11d1cdaf88db8c.png?r=6fb" width="400" alt="Débora Rodrigues Serra's Dev Card"/></a>
 </section>
