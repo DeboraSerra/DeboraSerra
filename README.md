@@ -1,48 +1,38 @@
-<h1> Hello, world! :earth_americas: </h1>
-<li> My name is Débora Serra and I am 29 years old. </li>
+Hi 👋 My name is Débora Rodrigues Serra
+=======================================
 
-<li> I'm a web development student :computer: in Trybe, but I'm also a chemist :mortar_board: , a cosmetologist 💄 and a baker 🍰</li>
+Web Development Student at Trybe
+--------------------------------
 
-<li> 🌱 I’m currently learning Front-end development, focusing on React.</li>
+* 🌍  I'm based in Brasil
+* 🖥️  See my portfolio at [See my Portfolio](http://deboraserra.github.io/portfolio/)
+* ✉️  You can contact me at [debora.r.serra@gmail.com](mailto:debora.r.serra@gmail.com)
+* 🧠  I'm learning MySQL and Docker
 
-<li> I love to watch movies and TV series :movie_camera: in my free time, but I often forget to take free times when start coding, because I love to learn new things!</li>
+<a href="https://www.github.com/DeboraSerra" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/DeboraSerra?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
 
-<p> Visit my <a href="https://deboraserra.github.io/" target="_blank">portfolio!</a>
+### Skills
 
-<!--
-<img src="" alt="gitHub link" width="35"/>
--->
-
-<h3> Projects I developed and/or colaborated with</h3>
-
-<p>Project <a href="https://github.com/DeboraSerra/Adopt-a-pet-bonus-project-block9" target="_blank">Adopt a pet</a> (Made in colaboration as specified on the repository</p>
-<p>Project <a href="https://github.com/DeboraSerra/Zoo-functions-repository" target="_blank">Zoo functions</a> (Developed in the course)</p>
-<p>Project <a href="https://github.com/DeboraSerra/Jest-repository" target="_blank">JS Unit tests</a> (Developed in the course)</p>
-<p>Project <a href="https://github.com/DeboraSerra/project-online-store/tree/master" target="_blank">Front End Online Store</a> (Developed in the course in group using agile methodologies)</p>
-
-<h3> Languages and tools </h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,git,html,js,linkedin,linux,md,react,redux,regex,vscode" />
-  </a>
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-<h3> My contacts </h3>
-<a href="https://github.com/DeboraSerra"> 
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="gitHub link"/>
-</a>
-<a href="https://www.linkedin.com/in/debora-r-serra/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn link"/>
-</a>
-<a href="mailto:debora.r.serra@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail link"/>
-</a>
 
-<h3> My stats </h3>
+### Socials
 
-<section style="display: flex; flex-flow: row wrap; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeboraSerra&show_icons=true&theme=vision-friendly-dark" alt="gitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeboraSerra" alt="gitHub languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeboraSerra" alt="gitHub streak"/>
-  <img src="https://www.codewars.com/users/DeboraSerra/badges/large" alt="CodeWars badge"/>
-</section>
+<p align="left"> <a href="https://www.github.com/DeboraSerra" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/debora-r-serra/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/DeboraSerra"><img src="https://github-readme-stats.vercel.app/api?username=DeboraSerra&show_icons=true&hide=issues,contribs&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="DeboraSerra's GitHub stats" /></a>
+
+<a href="http://www.github.com/DeboraSerra"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DeboraSerra&stroke=ffffff&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
