@@ -11,6 +11,7 @@ Web Development Student at Trybe
 
 <a href="https://www.github.com/DeboraSerra" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/DeboraSerra?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
+![Profile views](https://komarev.com/ghpvc/?username=deboraserra&style=for-the-badge&color=ec4899)
 
 ### Skills
 
