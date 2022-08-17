@@ -9,7 +9,7 @@ In 2021 I decided to switch careers and found my purpose in life. Currently I ha
 * 🌍  I'm based in Brasil
 * 🖥️  See my portfolio at [https://deboraserra.github.io/portfolio](http://deboraserra.github.io/portfolio)
 * ✉️  You can contact me at [debora.r.serra@gmail.com](mailto:debora.r.serra@gmail.com)
-* 🚀  I'm currently working on [Trybe](http://www.betrybe.com/)
+* 🚀  I'm currently working at [Trybe](http://www.betrybe.com/)
 * 🧠  I'm learning TypeScript, POO, SOLID and MongoDB
 
 ### Skills
