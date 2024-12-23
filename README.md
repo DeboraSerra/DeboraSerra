@@ -9,7 +9,7 @@ In 2021 I decided to switch careers and found my purpose in life. Currently I am
 * 🌍  I'm based in Brasil
 * 🖥️  See my portfolio at [https://portfolio-v3-brown.vercel.app/](http://portfolio-v3-brown.vercel.app/)
 * ✉️  You can contact me at [debora.r.serra@gmail.com](mailto:debora.r.serra@gmail.com)
-* 🚀  I'm currently working on [UOL Host](http://uolhost.uol.com.br)
+* 🚀  I'm currently working as a volunteer on [BlueWave Labs](http://uolhost.uol.com.br)
 * 🧠  I'm learning Java, Spring Boot, JUnit5, Kotlin
 
 <a href="https://www.github.com/DeboraSerra" target="_blank" rel="noreferrer"><img
